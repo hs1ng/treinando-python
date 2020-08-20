@@ -1,0 +1,1 @@
+#Os comentários começam com um # e o Python irá ignorá-los:
